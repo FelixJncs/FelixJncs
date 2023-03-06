@@ -7,6 +7,7 @@ Nichtdestotrotz bin ich von der Thematik begeistert und freue mich meine Erfahru
 
 ### Lernfelder
 
-- HTML
-- CSS
-- JS
+- HTML ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+- CSS  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+- JS   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+      
