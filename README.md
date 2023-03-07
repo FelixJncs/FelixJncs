@@ -16,3 +16,4 @@ Nichtdestotrotz bin ich von der Thematik begeistert und freue mich meine Erfahru
 - JS.   
 >>░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
       
+<img src="https://images.unsplash.com/photo-1519645480282-2bcc997ba3b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=677&q=80" width="250"/>
